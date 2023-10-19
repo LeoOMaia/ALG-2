@@ -1,3 +1,8 @@
+IRIS.DAT NÃO TEM INTERSEÇÃO!!!!!!!!!!
+LED TBM NAO!!!
+
+O RESTO VAMOS COLOCAR COM INTERSEÇAO
+
 # To do
 1. [ ] separar os dados em conjuntos, deverão ser divididos em dois: um subconjunto com 70%
 das amostras que será usado para o ajuste do modelo (treinamento), e um outro de
