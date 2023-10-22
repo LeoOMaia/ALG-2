@@ -1,8 +1,8 @@
 # Análise de Dados com Geometria Computacional
 
-Luís Felipe Souza Magalhães - 2020041604
-Leonardo de Oliveira Maia - 2019042139
-Pedro Henrique Meireles de Almeida - 2021031440
+- Luís Felipe Souza Magalhães - 2020041604
+- Leonardo de Oliveira Maia - 2019042139
+- Pedro Henrique Meireles de Almeida - 2021031440
 
 ## Introdução
 
