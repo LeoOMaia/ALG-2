@@ -29,8 +29,16 @@ O algoritmo de Graham Scan é utilizado em problemas que envolvem a identificaç
 
 ## Achar os pontos mais próximos entre dois convex hulls
 
-O algoritmo roda em O(n^2) e verifica para cada ponto dos convex hulls quais estão mais pertos
+O algoritmo roda em O(n^2) e verifica para cada ponto dos convex hulls quais estão mais pertos.
 
 ![Exemplo de Imagem](https://github.com/LeoOMaia/ALG-2/blob/main/closest_points.png)
 
 ![Exemplo de Imagem](https://github.com/LeoOMaia/ALG-2/blob/main/closest_points_code.png)
+
+## Reta Perpendicular a aresta formada entre pontos proximos
+
+Essa função é responsável por calcular os pontos que formam uma reta perpendicular. Ela utiliza um método simples para encontrar a reta perpendicular aos dois pontos fornecidos e retorna os pontos que a compõem  O(1).
+
+![Exemplo de Imagem](https://github.com/LeoOMaia/ALG-2/blob/main/perpendicular.png)
+
+![Exemplo de Imagem](https://github.com/LeoOMaia/ALG-2/blob/main/perpendicular_code.png)
