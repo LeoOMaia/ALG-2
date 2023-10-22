@@ -1,5 +1,9 @@
 # Análise de Dados com Geometria Computacional
 
+Luís Felipe Souza Magalhães - 2020041604
+Leonardo de Oliveira Maia - 2019042139
+Pedro Henrique Meireles de Almeida - 2021031440
+
 ## Introdução
 
 Este projeto tem como objetivo analisar 10 conjuntos de dados diferentes usando algoritmos de Geometria Computacional. As técnicas usadas neste projeto visam descobrir insights interessantes e padrões nos dados, além de realizar comparações entre os conjuntos de dados.
