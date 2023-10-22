@@ -42,3 +42,11 @@ Essa função é responsável por calcular os pontos que formam uma reta perpend
 ![Exemplo de Imagem](https://github.com/LeoOMaia/ALG-2/blob/main/perpendicular.png)
 
 ![Exemplo de Imagem](https://github.com/LeoOMaia/ALG-2/blob/main/perpendicular_code.png)
+
+## Estatítiscas de teste
+
+Esses testes medem a proporção de verdadeiros positivos (acertos) em relação ao total de positivos previstos, o *recall* mede a proporção de verdadeiros positivos em relação ao total de positivos reais. O *F1-score* mede o equilíbrio entre precisão e recall, levando em consideração ambos os valores.
+
+![Exemplo de Imagem](https://github.com/LeoOMaia/ALG-2/blob/main/est.png)
+
+
