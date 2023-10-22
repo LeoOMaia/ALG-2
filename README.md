@@ -27,6 +27,10 @@ O algoritmo de Graham Scan é utilizado em problemas que envolvem a identificaç
 
 ![Exemplo de Imagem](https://github.com/LeoOMaia/ALG-2/blob/main/convex_hull_code.png)
 
+## Checar colisões usando varredura
+
+A próxima etapa consiste em checar uma colisão entre os dois convex hulls usando o algoritmo de varredura. O algoritmo utiliza de árvores e tem uma complexidade de tempo de O(n * log(n)).
+
 ## Achar os pontos mais próximos entre dois convex hulls
 
 O algoritmo roda em O(n^2) e verifica para cada ponto dos convex hulls quais estão mais pertos.
