@@ -26,3 +26,11 @@ O algoritmo de Graham Scan é utilizado em problemas que envolvem a identificaç
 ![Exemplo de Imagem](https://github.com/LeoOMaia/ALG-2/blob/main/convex_hull.png)
 
 ![Exemplo de Imagem](https://github.com/LeoOMaia/ALG-2/blob/main/convex_hull_code.png)
+
+## Achar os pontos mais próximos entre dois convex hulls
+
+O algoritmo roda em O(n^2) e verifica para cada ponto dos convex hulls quais estão mais pertos
+
+![Exemplo de Imagem](https://github.com/LeoOMaia/ALG-2/blob/main/closest_points.png)
+
+![Exemplo de Imagem](https://github.com/LeoOMaia/ALG-2/blob/main/closest_points_code.png)
