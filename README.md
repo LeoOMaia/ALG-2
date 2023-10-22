@@ -22,3 +22,5 @@ Foram usados os seguintes conjuntos para serem analisados, 5 deles apresentam in
 ## Uso de Graham Scan para achar o envoltório convexo
 
 O algoritmo de Graham Scan é utilizado em problemas que envolvem a identificação de convex hulls. Esse algoritmo é eficiente e tem uma complexidade de tempo de O(n * log(n)), onde n é o número de pontos no conjunto.
+
+![Exemplo de Imagem](https://github.com/LeoOMaia/ALG-2/blob/main/convex_hull.png)
