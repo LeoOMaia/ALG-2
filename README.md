@@ -17,11 +17,11 @@ Foram usados os seguintes conjuntos para serem analisados, 5 deles apresentam in
 - ionosphere.dat
 - iris.dat
 - led7digital.dat
-- letter.dat
+- twonorm.dat
 - newthyroid.dat
 - texture.dat
 - wine.dat
-- zoo.dat
+- movement_libras.dat
 
 ## Uso de Graham Scan para achar o envoltório convexo
 
